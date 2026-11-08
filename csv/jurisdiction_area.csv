@@ -1,0 +1,16 @@
+﻿area_id,parent_area_id,area_type,area_code,area_name
+1,,COUNTRY,IN,India
+2,1,STATE,GJ,Gujarat
+3,1,STATE,MH,Maharashtra
+4,1,STATE,DL,Delhi
+5,2,DISTRICT,GJ-AHM,Ahmedabad
+6,2,DISTRICT,GJ-GNR,Gandhinagar
+7,2,DISTRICT,GJ-SRT,Surat
+8,3,DISTRICT,MH-MUM,Mumbai Suburban
+9,4,DISTRICT,DL-ND,New Delhi
+10,5,CITY,AHMEDABAD,Ahmedabad
+11,6,CITY,GANDHINAGAR,Gandhinagar
+12,7,CITY,SURAT,Surat
+13,8,CITY,MUMBAI,Mumbai
+14,9,CITY,NEW-DELHI,New Delhi
+15,5,SUB_DISTRICT,VIRAMGAM,Viramgam

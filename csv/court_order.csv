@@ -1,0 +1,16 @@
+﻿order_id,case_id,hearing_id,issuing_forum_id,order_type_code,order_number,order_year,order_date,order_title,order_text,order_status,digital_signature_hash,created_by_user_id
+16001,1001,11001,3,INTERIM,AHM-IO-001,2024,2024-01-12,Interim injunction order,Parties shall maintain status quo pending further hearing.,PRONOUNCED,DEMO-SIG-16001,4
+16002,1004,11007,7,BAIL,MM-BA-014,2024,2024-07-12,Bail order,Bail granted subject to attendance and non-interference conditions.,PUBLISHED,DEMO-SIG-16002,5
+16003,1005,11008,5,STAY,FC-ST-006,2025,2025-01-16,Interim stay order,Further proceedings stayed until the next review date.,SIGNED,DEMO-SIG-16003,4
+16004,1006,11010,2,PROCEDURAL,HC-PR-091,2026,2026-09-01,Order reserving judgment,Judgment reserved after final arguments.,PUBLISHED,DEMO-SIG-16004,4
+16005,1009,11013,4,JUDGMENT,GNR-JD-056,2025,2025-11-15,Judgment in declaratory suit,Suit dismissed on the sample facts and findings recorded in this fictional judgment.,PUBLISHED,DEMO-SIG-16005,5
+16006,1012,11016,11,FINAL,LA-AW-018,2025,2025-12-22,Lok Adalat settlement award,Settlement terms recorded by consent of parties.,PUBLISHED,DEMO-SIG-16006,4
+16007,1014,11018,7,JUDGMENT,MM-JD-055,2023,2023-01-30,Final judgment in criminal matter,Fictional final decision; no real allegation or person is represented.,PUBLISHED,DEMO-SIG-16007,5
+16008,1017,11021,12,PROCEDURAL,GN-TR-014,2025,2025-09-10,Transfer direction,Matter transferred to the District Court at Gandhinagar.,SIGNED,DEMO-SIG-16008,4
+16009,1003,11005,7,PROCEDURAL,MM-PR-212,2024,2024-07-01,Order recording evidence,Prosecution evidence to continue on the next date.,SUPERSEDED,DEMO-SIG-16009,5
+16010,1007,11011,8,OTHER,DRT-ORD-034,2024,2024-01-15,Notice order,Notice issued to respondent.,DRAFT,,4
+16011,1011,11015,2,PROCEDURAL,,,2026-11-04,Draft admission directions,Draft order not yet signed.,WITHDRAWN,,4
+16012,1021,11027,15,FINAL,LAB-FIN-008,2026,2026-10-25,Labour dispute closure order,Compliance recorded and proceeding closed.,PUBLISHED,DEMO-SIG-16012,5
+16013,1006,11010,2,JUDGMENT,HC-REV-001,2026,2026-09-02,Review-related order,Review-related sample order; no legal conclusion is represented.,SIGNED,DEMO-SIG-16013,4
+16014,1009,11013,4,JUDGMENT,GNR-COR-056,2025,2025-12-10,Corrected judgment order,Corrected sample judgment text.,PUBLISHED,DEMO-SIG-16014,5
+16015,1005,11008,5,OTHER,FC-SEALED-001,2024,2024-10-10,Sealed ancillary order,Confidential ancillary order.,SIGNED,DEMO-SIG-16015,4

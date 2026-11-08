@@ -1,0 +1,16 @@
+﻿evidence_id,case_id,evidence_type_code,submitted_by_case_party_id,received_by_user_id,exhibit_number,evidence_title,description,submission_date,admission_status,confidentiality_level
+15001,1001,DOCUMENTARY,3001,3,EXH-P-1,Registered sale deed,Certified copy of deed; fictional record.,2023-05-16,ADMITTED,PARTY_ONLY
+15002,1001,PHYSICAL,3001,3,EXH-P-2,Boundary marker sample,Physical sample recorded in inventory.,2023-06-10,MARKED_FOR_IDENTIFICATION,RESTRICTED
+15003,1002,DOCUMENTARY,3003,3,EXH-C-1,Invoice bundle,Invoices and delivery notes.,2024-02-10,PENDING,PARTY_ONLY
+15004,1002,EXPERT,3003,3,EXH-C-2,Chartered accountant report,Expert reconciliation report.,2024-05-14,ADMITTED,RESTRICTED
+15005,1003,ELECTRONIC,3005,3,EXH-CR-1,CCTV footage export,Digital evidence; file pointer is synthetic.,2024-07-01,ADMITTED,RESTRICTED
+15006,1003,ORAL,3008,3,EXH-CR-2,Harish Patel testimony,Oral testimony summary.,2024-07-01,ADMITTED,RESTRICTED
+15007,1003,PHYSICAL,3005,3,EXH-CR-3,Sealed physical item,Physical object stored under seal.,2024-07-02,NOT_ADMITTED,SEALED
+15008,1006,EXPERT,3015,3,EXH-WP-1,Environmental expert report,Expert report on fictional project impacts.,2025-03-01,ADMITTED,RESTRICTED
+15009,1007,DOCUMENTARY,3018,3,EXH-DRT-1,Loan account statement,Account statement filed by appellant.,2023-11-04,PENDING,PARTY_ONLY
+15010,1013,DOCUMENTARY,3030,3,EXH-CC-1,Invoice annexure,Invoice schedule pending defect cure.,2026-10-15,PENDING,PARTY_ONLY
+15011,1020,ELECTRONIC,3045,3,EXH-CR-4,Mobile device extraction report,Forensic extraction metadata.,2026-08-10,MARKED_FOR_IDENTIFICATION,RESTRICTED
+15012,1020,EXPERT,3045,3,EXH-CR-5,Forensic expert report,Expert report produced during trial.,2026-08-10,ADMITTED,RESTRICTED
+15013,1005,OTHER,3012,3,EXH-FC-1,Sealed counsellor note,Restricted family-court document; not public.,2024-10-10,WITHDRAWN,SEALED
+15014,1001,OTHER,3001,3,EXH-P-3,Duplicate photocopy,Duplicate material not admitted.,2024-01-10,WITHDRAWN,PUBLIC
+15015,1018,DOCUMENTARY,3041,3,EXH-SCDRC-1,Public service brochure,Brochure marked public for demonstrative search.,2026-01-07,ADMITTED,PUBLIC

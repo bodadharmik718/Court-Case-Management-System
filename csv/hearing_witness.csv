@@ -1,0 +1,6 @@
+﻿hearing_witness_id,hearing_id,case_party_id,attendance_status,testimony_summary,testimony_record_document_id,testimony_recorded_at
+14101,11005,3008,PRESENT,Witness identified the location and time stated in the fictional prosecution record.,9015,2024-07-01 12:00:00+05:30
+14102,11005,3009,ABSENT,,,
+14103,11025,3047,PRESENT,Expert explained the methodology used in the sample forensic report.,9022,2026-08-10 13:00:00+05:30
+14104,11025,3048,UNKNOWN,,,
+14105,11008,3014,EXEMPTED,Counsellor was not required to give oral testimony.,,

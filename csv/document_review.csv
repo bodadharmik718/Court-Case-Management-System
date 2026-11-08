@@ -1,0 +1,21 @@
+﻿document_review_id,document_version_id,review_status,reviewed_by_user_id,reviewed_at,review_notes
+10201,10001,VERIFIED,3,2023-05-17 12:00:00+05:30,Original plaint verified.
+10202,10101,VERIFIED,3,2023-05-21 12:00:00+05:30,Corrected version accepted.
+10203,10002,PENDING,3,2023-05-18 12:00:00+05:30,Awaiting document verification.
+10204,10005,VERIFIED,3,2024-07-13 10:00:00+05:30,Public order verified.
+10205,10006,SEALED,3,2024-08-22 10:00:00+05:30,Confidential family document sealed.
+10206,10008,VERIFIED,3,2025-01-11 10:00:00+05:30,Writ petition file verified.
+10207,10010,RETURNED_FOR_CORRECTION,3,2024-02-12 10:00:00+05:30,Invoice bundle index requires correction.
+10208,10013,REJECTED,3,2024-07-03 10:00:00+05:30,File metadata did not match submitted media; replacement requested.
+10209,10103,SEALED,3,2025-01-16 17:00:00+05:30,Sealed family order.
+10210,10104,VERIFIED,3,2026-09-02 10:00:00+05:30,Order verified.
+10211,10105,VERIFIED,3,2025-12-23 10:00:00+05:30,Award verified.
+10212,10106,VERIFIED,3,2023-01-31 10:00:00+05:30,Judgment verified and redacted.
+10213,10107,VERIFIED,3,2025-09-11 10:00:00+05:30,Transfer order verified.
+10214,10108,PENDING,3,2024-01-16 10:00:00+05:30,Draft order pending.
+10215,10109,VERIFIED,3,2026-10-26 10:00:00+05:30,Closure order verified.
+10216,10110,PENDING,3,2024-07-01 16:00:00+05:30,Pending document review.
+10217,10111,PENDING,3,2026-11-04 09:00:00+05:30,Pending document review.
+10218,10112,SEALED,3,2024-10-10 17:00:00+05:30,Sealed under confidentiality controls.
+10219,10113,VERIFIED,3,2026-09-02 16:00:00+05:30,Verified sample order/judgment document.
+10220,10114,VERIFIED,3,2025-12-10 16:00:00+05:30,Verified sample order/judgment document.

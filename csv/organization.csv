@@ -1,0 +1,14 @@
+﻿organization_id,organization_name,organization_type,registration_number,email,phone,address,is_active
+1,Aravalli Components Private Limited,PRIVATE_LIMITED,DEMO-CIN-U00001GJ2010PTC000001,legal@aravalli.example.test,+91-90000-10001,"Changodar Industrial Estate, Ahmedabad, Gujarat",True
+2,Triveni Industrial Systems Private Limited,PRIVATE_LIMITED,DEMO-CIN-U00002GJ2012PTC000002,legal@triveni.example.test,+91-90000-10002,"Vatva GIDC, Ahmedabad, Gujarat",True
+3,State of Gujarat,GOVERNMENT,DEMO-GOV-GJ-001,law@gujarat.example.test,+91-90000-10003,"Sachivalaya, Gandhinagar, Gujarat",True
+4,Sabarmati Riverfront Residents Association,ASSOCIATION,DEMO-REG-ACT-004,office@sabarmati-ra.example.test,+91-90000-10004,"Riverfront, Ahmedabad, Gujarat",True
+5,Prakash Electricals Limited,PUBLIC_LIMITED,DEMO-CIN-L00005GJ2008PLC000005,legal@prakash-electricals.example.test,+91-90000-10005,"Makarpura GIDC, Vadodara, Gujarat",True
+6,Union of India,GOVERNMENT,DEMO-GOV-IN-006,law@union.example.test,+91-90000-10006,"New Delhi, India",True
+7,Gujarat State Power Corporation Limited,PUBLIC_SECTOR,DEMO-GSPC-007,legal@gspc.example.test,+91-90000-10007,"Gandhinagar, Gujarat",True
+8,Ahmedabad Municipal Corporation,LOCAL_GOVERNMENT,DEMO-AMC-008,legal@amc.example.test,+91-90000-10008,"Danapith, Ahmedabad, Gujarat",True
+9,Shreeji Residency Cooperative Housing Society,COOPERATIVE,DEMO-SOCIETY-009,secretary@shreeji.example.test,+91-90000-10009,"Thaltej, Ahmedabad, Gujarat",True
+10,Kutch Agro Trading Private Limited,PRIVATE_LIMITED,DEMO-CIN-U00010GJ2015PTC000010,legal@kutchagro.example.test,+91-90000-10010,"Gandhidham, Kutch, Gujarat",True
+11,"District Legal Services Authority, Ahmedabad",PUBLIC_AUTHORITY,DEMO-DLSA-011,dlsa@ahmedabad.example.test,+91-90000-10011,"Bhadra, Ahmedabad, Gujarat",True
+12,Sunrise Multispeciality Hospital Limited,PRIVATE_LIMITED,DEMO-CIN-U00012GJ2014PTC000012,legal@sunrise.example.test,+91-90000-10012,"Science City Road, Ahmedabad, Gujarat",True
+13,Sabarmati Logistics LLP,LLP,DEMO-LLP-013,legal@sabarmati-logistics.example.test,+91-90000-10013,"Changodar, Ahmedabad, Gujarat",True

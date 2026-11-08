@@ -1,0 +1,23 @@
+﻿forum_id,subject_matter_code,valid_from,valid_to,notes
+1,CONSTITUTION,1950-01-28,,Constitutional and appellate matters.
+1,OTHER,1950-01-28,,Other matters within Supreme Court jurisdiction.
+2,CONSTITUTION,1960-05-01,,Writ and constitutional jurisdiction.
+2,CIVIL,1960-05-01,,Civil appellate jurisdiction.
+2,CRIME,1960-05-01,,Criminal appellate jurisdiction.
+3,PROPERTY,1950-01-01,,Property and civil disputes.
+3,CONTRACT,1950-01-01,,Contractual disputes.
+3,CRIME,1950-01-01,,Criminal sessions matters.
+4,PROPERTY,1980-01-01,,Civil matters in Gandhinagar.
+5,FAMILY,2001-01-01,,Family disputes.
+6,COMMERCIAL,2016-01-01,,Commercial disputes.
+7,CRIME,1970-01-01,,Criminal matters.
+8,CONTRACT,1993-01-01,,Debt recovery.
+9,COMMERCIAL,2016-06-01,,Company law matters.
+10,OTHER,1987-01-01,,Consumer disputes.
+11,OTHER,1987-01-01,,Consensual settlement matters.
+12,PROPERTY,2009-01-01,,Local civil matters.
+13,CRIME,1985-01-01,,Special criminal jurisdiction.
+14,OTHER,2004-01-01,,Electricity consumer grievance adjudication.
+15,LABOUR,1970-01-01,,Employment and labour disputes.
+8,TAX,1993-01-01,,Tax-related matters only where assigned by law.
+9,TAX,2016-06-01,,Tax/company matters as assigned by jurisdiction.

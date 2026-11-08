@@ -1,0 +1,10 @@
+﻿judgment_id,order_id,judgment_type,pronouncement_date,is_final,verdict_summary,full_text,digital_signature_hash,publication_status
+17001,16002,INTERIM,2024-07-12,False,Bail granted subject to conditions.,Fictional bail decision text for query testing.,DEMO-JUD-SIG-17001,PUBLISHED
+17002,16005,FINAL,2025-11-15,True,Declaratory suit dismissed.,Fictional final judgment text for query testing.,DEMO-JUD-SIG-17002,PUBLISHED
+17003,16006,FINAL,2025-12-22,True,Settlement award recorded.,Fictional Lok Adalat settlement award text.,DEMO-JUD-SIG-17003,PUBLISHED
+17004,16007,FINAL,2023-01-30,True,Matter disposed by final judgment.,Fictional criminal judgment text for query testing.,DEMO-JUD-SIG-17004,REDACTED
+17005,16004,INTERIM,2026-09-01,False,Matter reserved for judgment; no final decision yet.,Fictional procedural decision.,DEMO-JUD-SIG-17005,UNPUBLISHED
+17006,16001,PARTIAL,2024-01-12,False,Interim relief granted in part.,Fictional interim decision.,DEMO-JUD-SIG-17006,PUBLISHED
+17007,16013,REVIEW,2026-09-02,False,Review-related interim decision.,Fictional review judgment record for testing.,DEMO-JUD-SIG-17007,UNPUBLISHED
+17008,16014,CORRECTED,2025-12-10,True,Corrected judgment issued.,Fictional corrected judgment record for testing.,DEMO-JUD-SIG-17008,PUBLISHED
+17009,16015,OTHER,2024-10-10,False,Ancillary decision sealed.,Confidential fictional text.,DEMO-JUD-SIG-17009,SEALED

@@ -1,0 +1,54 @@
+﻿case_party_id,case_id,party_id,party_role_code,party_number,joined_on,ceased_on,is_primary,notes
+3001,1001,1001,PLAINTIFF,1,2023-05-15,,True,Plaintiff
+3002,1001,1002,DEFENDANT,2,2023-05-15,,False,Defendant
+3003,1002,1101,PLAINTIFF,1,2024-02-10,,True,Corporate plaintiff
+3004,1002,1102,DEFENDANT,2,2024-02-10,,False,Corporate defendant
+3005,1003,1103,PROSECUTION,1,2024-06-01,,True,State prosecution
+3006,1003,1003,ACCUSED,2,2024-06-01,,False,Accused person
+3007,1003,1004,COMPLAINANT,3,2024-06-01,,False,Complainant
+3008,1003,1009,WITNESS,4,2024-06-01,,False,Prosecution witness
+3009,1003,1010,WITNESS,5,2024-06-01,,False,Independent witness
+3010,1004,1003,APPLICANT,1,2024-06-05,,True,Bail applicant
+3011,1004,1103,RESPONDENT,2,2024-06-05,,False,State respondent
+3012,1005,1005,PETITIONER,1,2024-08-21,,True,Petitioner
+3013,1005,1006,RESPONDENT,2,2024-08-21,,False,Respondent
+3014,1005,1011,WITNESS,3,2024-08-21,,False,Family counsellor witness
+3015,1006,1104,PETITIONER,1,2025-01-10,,True,Residents association
+3016,1006,1103,RESPONDENT,2,2025-01-10,,False,State respondent
+3017,1006,1108,RESPONDENT,3,2025-01-10,,False,Municipal authority
+3018,1007,1105,APPELLANT,1,2023-11-04,,True,Appellant company
+3019,1007,1106,RESPONDENT,2,2023-11-04,,False,Respondent authority
+3020,1008,1001,APPLICANT,1,2024-01-03,,True,Decree-holder
+3021,1008,1002,RESPONDENT,2,2024-01-03,,False,Judgment-debtor
+3022,1009,1007,PLAINTIFF,1,2025-04-12,,True,Plaintiff
+3023,1009,1008,DEFENDANT,2,2025-04-12,,False,Defendant
+3024,1010,1014,APPLICANT,1,2026-02-01,,True,Applicant
+3025,1010,1103,RESPONDENT,2,2026-02-01,,False,State respondent
+3026,1011,1001,APPELLANT,1,2026-04-19,,True,Appellant in appeal
+3027,1011,1002,RESPONDENT,2,2026-04-19,,False,Respondent in appeal
+3028,1012,1109,APPLICANT,1,2025-09-01,,True,Housing society
+3029,1012,1112,RESPONDENT,2,2025-09-01,,False,Service provider
+3030,1013,1107,PLAINTIFF,1,2026-10-15,,True,Corporate plaintiff
+3031,1013,1102,DEFENDANT,2,2026-10-15,,False,Corporate defendant
+3032,1014,1103,PROSECUTION,1,2022-03-13,,True,State prosecution
+3033,1014,1020,ACCUSED,2,2022-03-13,,False,Accused person
+3034,1014,1017,WITNESS,3,2022-03-13,,False,Witness
+3035,1015,1110,APPELLANT,1,2026-07-02,,True,Appellant company
+3036,1015,1106,RESPONDENT,2,2026-07-02,,False,Union of India
+3037,1016,1107,PLAINTIFF,1,2024-11-15,,True,Power corporation
+3038,1016,1113,DEFENDANT,2,2024-11-15,,False,Logistics company
+3039,1017,1018,PLAINTIFF,1,2025-05-09,,True,Plaintiff
+3040,1017,1019,DEFENDANT,2,2025-05-09,,False,Defendant
+3041,1018,1109,COMPLAINANT,1,2026-01-07,,True,Consumer complainant
+3042,1018,1112,RESPONDENT,2,2026-01-07,,False,Service provider
+3043,1019,1015,PLAINTIFF,1,2025-10-20,,True,Plaintiff
+3044,1019,1108,DEFENDANT,2,2025-10-20,,False,Municipal authority
+3045,1020,1103,PROSECUTION,1,2025-07-14,,True,State prosecution
+3046,1020,1016,ACCUSED,2,2025-07-14,,False,Accused person
+3047,1020,1012,WITNESS,3,2025-07-14,,False,Expert witness
+3048,1020,1013,WITNESS,4,2025-07-14,,False,Independent witness
+3049,1021,1019,APPLICANT,1,2026-03-01,,True,Employee/applicant.
+3050,1021,1107,RESPONDENT,2,2026-03-01,,False,Employer/respondent.
+3051,1006,1103,STATE,4,2025-01-10,,False,State named in its official capacity.
+3052,1006,1111,INTERVENOR,5,2025-03-01,,False,Legal services authority permitted to intervene in demo.
+3053,1002,1021,OTHER,3,2024-02-10,,False,Additional interested party in commercial matter.

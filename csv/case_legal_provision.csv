@@ -1,0 +1,11 @@
+﻿case_id,provision_id,application_side,notes
+1001,4,PETITIONER,Civil jurisdiction reference.
+1001,5,PETITIONER,Interim injunction reference.
+1002,6,PETITIONER,Contract damages reference.
+1006,3,PETITIONER,High Court writ jurisdiction reference.
+1005,2,COURT,Constitutional rights reference in confidential family matter.
+1003,8,PROSECUTION,Illustrative BNS provision reference; facts are synthetic.
+1003,9,COURT,Electronic evidence reference.
+1007,6,PETITIONER,Contractual debt dispute reference.
+1009,7,PETITIONER,Property transfer reference.
+1018,10,PETITIONER,Consumer forum jurisdiction reference.

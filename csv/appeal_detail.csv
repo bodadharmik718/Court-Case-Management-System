@@ -1,0 +1,3 @@
+﻿appeal_case_id,original_case_id,challenged_order_id,appeal_type,filed_on,appeal_status,outcome_summary
+1011,1001,16001,CIVIL_APPEAL,2026-04-19,PENDING,Appeal pending admission and notice.
+1015,1007,16010,TRIBUNAL_APPEAL,2026-07-02,PENDING,Appeal pending before NCLT in the synthetic example.

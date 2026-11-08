@@ -1,0 +1,29 @@
+# Environment variables & secrets
+.env
+.env.local
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+
+# Local storage and private uploads
+storage/documents/*
+!storage/documents/.gitkeep
+*.log
+

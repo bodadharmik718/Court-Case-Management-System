@@ -1,0 +1,11 @@
+﻿lawyer_id,person_id,law_firm_organization_id,profile_status,profile_notes
+2001,9,13,ACTIVE,Civil and property litigation; sample profile.
+2002,10,13,ACTIVE,Commercial and contractual disputes.
+2003,11,,ACTIVE,Criminal defence and trial practice.
+2004,12,13,ACTIVE,Constitutional and administrative matters.
+2005,13,,ACTIVE,Family law and matrimonial matters.
+2006,14,13,ACTIVE,Corporate and insolvency matters.
+2007,15,,SUSPENDED,Sample suspended profile for status-filter testing.
+2008,16,,RETIRED,Sample retired profile for historical representation testing.
+2009,51,,DECEASED,Historical profile for testing deceased lawyer status.
+2010,52,,INACTIVE,Inactive profile for testing.

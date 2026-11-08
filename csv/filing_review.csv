@@ -1,0 +1,13 @@
+﻿filing_review_id,filing_id,review_stage,review_result,reviewed_by_user_id,reviewed_at,remarks
+8201,8001,INITIAL_SCRUTINY,ACCEPTED,3,2023-05-16 12:00:00+05:30,No initial defects.
+8202,8001,LEGAL_SCRUTINY,ACCEPTED,3,2023-05-20 12:00:00+05:30,Legal scrutiny completed.
+8203,8004,INITIAL_SCRUTINY,ACCEPTED,3,2024-02-12 12:00:00+05:30,Complete filing.
+8204,8008,VERIFICATION,ACCEPTED,3,2024-08-28 12:00:00+05:30,Verification completed; confidentiality flag retained.
+8205,8016,INITIAL_SCRUTINY,RETURNED_FOR_CORRECTION,3,2026-10-20 12:00:00+05:30,Defects listed for correction.
+8206,8016,LEGAL_SCRUTINY,PENDING,3,2026-10-21 12:00:00+05:30,Awaiting corrected annexure.
+8207,8024,INITIAL_SCRUTINY,PENDING,3,2026-11-02 12:00:00+05:30,Pre-registration filing awaiting scrutiny.
+8208,8014,REGISTRATION,ACCEPTED,3,2026-04-28 12:00:00+05:30,Appeal registered.
+8209,8027,INITIAL_SCRUTINY,PENDING,3,2024-06-23 12:00:00+05:30,Awaiting registry check.
+8210,8028,LEGAL_SCRUTINY,REJECTED,3,2023-12-03 12:00:00+05:30,Rejected under sample filing rules.
+8211,8029,INITIAL_SCRUTINY,WAIVED,3,2025-02-02 12:00:00+05:30,Correction requirement waived for demo.
+8212,8031,REGISTRATION,ACCEPTED,3,2026-03-12 12:00:00+05:30,Labour dispute registered.

@@ -1,0 +1,11 @@
+﻿case_fee_id,case_id,filing_id,fee_type_code,amount_due,due_date,waiver_amount,fee_status,assessed_at,notes
+18001,1001,8001,FILING_FEE,2500.0,2023-05-20,0.0,PAID,2023-05-15 12:00:00+05:30,Initial civil filing fee.
+18002,1001,8003,PROCESS_FEE,800.0,2024-01-20,0.0,PARTIALLY_PAID,2024-01-10 12:00:00+05:30,Process fee partly paid.
+18003,1002,8004,FILING_FEE,12500.0,2024-02-20,0.0,DUE,2024-02-10 12:00:00+05:30,Commercial filing fee due.
+18004,1005,8008,FILING_FEE,1500.0,2024-08-30,1500.0,WAIVED,2024-08-21 12:00:00+05:30,Fee waiver approved for sample record.
+18005,1013,8016,FILING_FEE,6500.0,2026-10-25,0.0,CANCELLED,2026-10-15 12:00:00+05:30,Assessment cancelled pending corrected filing.
+18006,1018,8021,FILING_FEE,2000.0,2026-01-20,0.0,PAID,2026-01-07 12:00:00+05:30,Consumer complaint fee.
+18007,1007,8010,PROCESS_FEE,1200.0,2023-11-20,0.0,DUE,2023-11-04 12:00:00+05:30,Service/process fee.
+18008,1006,8009,COPYING_FEE,350.0,2026-09-05,0.0,DUE,2026-09-01 12:00:00+05:30,Certified copy request fee.
+18009,1021,8031,OTHER,500.0,2026-03-15,0.0,DUE,2026-03-12 12:00:00+05:30,Miscellaneous administrative fee sample.
+18010,1001,8025,COPYING_FEE,250.0,2025-04-15,0.0,DUE,2025-04-10 12:00:00+05:30,Copying fee for valuation report.

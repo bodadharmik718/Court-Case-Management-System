@@ -1,0 +1,32 @@
+﻿filing_id,case_id,forum_id,filing_type_code,filing_status_code,filing_number,filing_year,title,submitted_at,submitted_by_user_id,submitted_by_party_id,submitted_by_lawyer_id,filing_channel,remarks
+8001,1001,3,PLAINT,REGISTERED,AHM-PL-00123,2023,Plaint - property partition suit,2023-05-15 10:30:00+05:30,7,,2001,ONLINE,Main civil plaint.
+8002,1001,3,WRITTEN_STATEMENT,ACCEPTED,AHM-WS-00124,2023,Written statement of defendant,2023-07-01 11:00:00+05:30,8,,2002,ONLINE,Defence pleading.
+8003,1001,3,APPLICATION,ACCEPTED,AHM-IA-00125,2024,Interim application for injunction,2024-01-10 10:00:00+05:30,7,,2001,COUNTER,Interim relief application.
+8004,1002,6,PLAINT,REGISTERED,CC-PL-00041,2024,Commercial plaint - invoice recovery,2024-02-10 10:00:00+05:30,8,1101,2002,ONLINE,Commercial claim.
+8005,1002,6,WRITTEN_STATEMENT,ACCEPTED,CC-WS-00042,2024,Written statement - commercial suit,2024-03-20 10:00:00+05:30,7,1102,2001,ONLINE,Defendant response.
+8006,1003,7,PETITION,REGISTERED,MM-CR-00211,2024,Police report and prosecution filing,2024-06-01 10:00:00+05:30,3,1103,2004,COUNTER,Fictional criminal filing.
+8007,1004,7,APPLICATION,REGISTERED,MM-BA-00219,2024,Regular bail application,2024-06-05 10:00:00+05:30,7,1003,2003,ONLINE,Bail request.
+8008,1005,5,PETITION,REGISTERED,FC-PET-00077,2024,Family petition,2024-08-21 10:00:00+05:30,7,1005,2005,COUNTER,Confidential family filing.
+8009,1006,2,PETITION,REGISTERED,HC-WP-00089,2025,Writ petition,2025-01-10 10:00:00+05:30,7,1104,2004,ONLINE,Public law petition.
+8010,1007,8,APPEAL_MEMO,REGISTERED,DRT-AP-00034,2023,Appeal memorandum,2023-11-04 10:00:00+05:30,8,1105,2006,ONLINE,Tribunal appeal filing.
+8011,1008,3,APPLICATION,REGISTERED,AHM-EX-00015,2024,Execution application,2024-01-03 10:00:00+05:30,7,1001,2001,COUNTER,Execution filing.
+8012,1009,4,PLAINT,REGISTERED,GNR-PL-00056,2025,Declaratory suit plaint,2025-04-12 10:00:00+05:30,8,1007,2001,ONLINE,Declaratory relief.
+8013,1010,7,APPLICATION,WITHDRAWN,MM-MA-00099,2026,Miscellaneous application,2026-02-01 10:00:00+05:30,7,1014,2003,ONLINE,Withdrawn by applicant.
+8014,1011,2,APPEAL_MEMO,REGISTERED,HC-CAP-00021,2026,Civil appeal memorandum,2026-04-19 10:00:00+05:30,7,1001,2001,ONLINE,Appeal against trial court decision.
+8015,1012,11,PETITION,REGISTERED,LA-00018,2025,Lok Adalat reference,2025-09-01 10:00:00+05:30,8,1109,2002,COUNTER,Settlement referral.
+8016,1013,6,PLAINT,DEFECTIVE,CC-PL-00288,2026,Commercial plaint with filing defects,2026-10-15 10:00:00+05:30,8,1107,2006,ONLINE,Missing annexure and incomplete verification.
+8017,1014,7,PETITION,REGISTERED,MM-CR-00055,2022,Criminal case filing,2022-03-13 10:00:00+05:30,3,1103,2004,COUNTER,Fictional prosecution filing.
+8018,1015,9,APPEAL_MEMO,REGISTERED,NCLT-AP-00027,2026,Tribunal appeal memorandum,2026-07-02 10:00:00+05:30,8,1110,2006,ONLINE,Company law appeal.
+8019,1016,11,PETITION,REGISTERED,LA-00062,2024,Lok Adalat reference,2024-11-15 10:00:00+05:30,8,1107,2002,COUNTER,Settlement referral.
+8020,1017,12,PLAINT,REGISTERED,GN-PL-00014,2025,Gram Nyayalaya plaint,2025-05-09 10:00:00+05:30,8,1018,2001,COUNTER,Original filing before transfer.
+8021,1018,10,PETITION,REGISTERED,SCDRC-00031,2026,Consumer complaint,2026-01-07 10:00:00+05:30,7,1109,2002,ONLINE,Consumer forum complaint.
+8022,1019,3,PLAINT,REGISTERED,AHM-PL-00311,2025,Civil plaint - municipal access,2025-10-20 10:00:00+05:30,7,1015,2001,COUNTER,Civil suit.
+8023,1020,7,PETITION,REGISTERED,MM-CR-00145,2025,Criminal case filing,2025-07-14 10:00:00+05:30,3,1103,2004,COUNTER,Fictional prosecution filing.
+8024,,3,PETITION,SUBMITTED,,,Pre-registration filing awaiting case number,2026-11-01 10:00:00+05:30,7,1014,2001,ONLINE,Demonstrates filing received before case record creation.
+8025,1001,3,DOCUMENT_ONLY,ACCEPTED,AHM-DOC-00991,2025,Additional property valuation report,2025-04-10 09:30:00+05:30,7,1001,2001,ONLINE,Additional documentary filing.
+8026,1003,7,COUNTER_AFFIDAVIT,ACCEPTED,MM-CA-00212,2024,Counter affidavit by investigating officer,2024-06-20 10:00:00+05:30,3,1103,2004,COUNTER,Counter affidavit received.
+8027,1003,7,REPLY,UNDER_SCRUTINY,MM-RP-00213,2024,Reply to defence application,2024-06-22 10:00:00+05:30,3,1103,2004,ONLINE,Reply pending scrutiny.
+8028,1007,8,REVISION,REJECTED,DRT-RV-00035,2023,Revision filing returned and rejected,2023-12-01 10:00:00+05:30,8,1105,2006,ONLINE,Rejected for limitation and filing defects in this synthetic example.
+8029,1006,2,REVIEW,RETURNED,HC-RV-00090,2025,Review petition returned for correction,2025-02-01 10:00:00+05:30,7,1104,2004,ONLINE,Returned for correction.
+8030,1018,10,OTHER,SUBMITTED,SCDRC-OTH-00032,2026,Additional consumer forum filing,2026-01-08 10:00:00+05:30,7,1109,2002,ONLINE,Other type filing.
+8031,1021,15,PETITION,REGISTERED,LAB-PET-00008,2026,Labour dispute claim petition,2026-03-01 10:30:00+05:30,7,1019,2005,COUNTER,Labour dispute filing.

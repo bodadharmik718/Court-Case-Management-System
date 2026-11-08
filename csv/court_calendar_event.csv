@@ -1,0 +1,9 @@
+﻿calendar_event_id,forum_id,event_date,event_type,event_name,is_working_day,notes
+1,2,2026-01-26,HOLIDAY,Republic Day,False,National holiday sample.
+2,3,2026-05-01,HOLIDAY,Gujarat Day,False,Regional holiday sample.
+3,3,2026-06-01,COURT_VACATION,Summer Court Vacation,False,Illustrative vacation period entry.
+4,2,2026-11-07,SPECIAL_SITTING,Special Saturday Sitting,True,Illustrative special sitting.
+5,6,2026-11-04,WORKING_DAY,Special Commercial Docket,True,Illustrative working-day event.
+6,11,2026-11-14,OTHER,National Lok Adalat,True,Illustrative Lok Adalat date.
+7,13,2026-11-05,WORKING_DAY,Special Court Sitting,True,Illustrative special-court sitting.
+8,15,2026-11-06,OTHER,Labour Court Local Holiday,False,Illustrative local calendar entry.

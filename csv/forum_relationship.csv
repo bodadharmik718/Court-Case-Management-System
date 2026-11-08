@@ -1,0 +1,14 @@
+﻿forum_relationship_id,from_forum_id,to_forum_id,relationship_type_code,valid_from,valid_to,notes
+1,1,2,APPELLATE_TO,1960-05-01,,Illustrative forum relationship record for demo reporting.
+2,2,3,ADMIN_SUPERVISION_OF,1960-05-01,,High Court administrative supervision of district court.
+3,2,4,ADMIN_SUPERVISION_OF,1980-01-01,,High Court administrative supervision of district court.
+4,2,3,APPELLATE_TO,1960-05-01,,Illustrative appellate relationship.
+5,2,4,APPELLATE_TO,1980-01-01,,Illustrative appellate relationship.
+6,3,5,TERRITORIAL_SUBORDINATION_TO,2001-01-01,,Family Court administrative linkage.
+7,3,6,TERRITORIAL_SUBORDINATION_TO,2016-01-01,,Commercial Court administrative linkage.
+8,3,7,TERRITORIAL_SUBORDINATION_TO,1970-01-01,,Metropolitan Magistrate Court administrative linkage.
+9,3,11,SPECIAL_JURISDICTION_OF,1987-01-01,,Lok Adalat associated with district legal services.
+10,3,12,TERRITORIAL_SUBORDINATION_TO,2009-01-01,,Gram Nyayalaya territorial linkage.
+11,2,13,ADMIN_SUPERVISION_OF,1985-01-01,,Illustrative special court administrative linkage.
+12,2,15,ADMIN_SUPERVISION_OF,1970-01-01,,Illustrative labour court administrative linkage.
+13,14,2,SPECIAL_JURISDICTION_OF,2004-01-01,,Illustrative electricity grievance forum relationship.

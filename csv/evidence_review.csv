@@ -1,0 +1,16 @@
+﻿evidence_review_id,evidence_id,reviewed_by_judge_id,reviewed_by_user_id,review_decision,reviewed_at,reasons
+15101,15001,3002,3,ADMITTED,2023-07-15 12:00:00+05:30,Document admitted subject to proof.
+15102,15002,3002,3,MARKED_FOR_IDENTIFICATION,2023-07-15 12:10:00+05:30,Marked for identification.
+15103,15003,3002,3,PENDING,2024-04-15 12:00:00+05:30,Objection to be considered at evidence stage.
+15104,15004,3002,3,ADMITTED,2024-06-01 12:00:00+05:30,Expert report taken on record.
+15105,15005,3005,3,ADMITTED,2024-07-01 12:00:00+05:30,Electronic evidence admitted for demo record.
+15106,15006,3005,3,ADMITTED,2024-07-01 12:30:00+05:30,Oral evidence recorded.
+15107,15007,3005,3,NOT_ADMITTED,2024-07-02 12:00:00+05:30,Objection sustained; record sealed.
+15108,15008,3001,3,ADMITTED,2026-09-01 12:00:00+05:30,Expert report admitted.
+15109,15009,3001,3,OBJECTION_NOTED,2024-01-15 12:00:00+05:30,Objection noted for later decision.
+15110,15010,,3,PENDING,2026-10-21 12:00:00+05:30,Awaiting filing defect cure.
+15111,15011,3005,3,MARKED_FOR_IDENTIFICATION,2026-08-10 13:00:00+05:30,Marked pending formal proof.
+15112,15012,3005,3,ADMITTED,2026-08-10 13:30:00+05:30,Expert report admitted.
+15113,15013,3004,3,NOT_ADMITTED,2024-10-10 12:00:00+05:30,Confidential note not admitted as evidence.
+15114,15014,3002,3,NOT_ADMITTED,2024-01-10 12:00:00+05:30,Duplicate copy not admitted.
+15115,15015,3001,3,ADMITTED,2026-05-14 12:00:00+05:30,Public brochure admitted.

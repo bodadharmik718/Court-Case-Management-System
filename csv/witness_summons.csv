@@ -1,0 +1,8 @@
+﻿summons_id,case_party_id,issued_by_user_id,issued_on,service_status,served_on,return_reason,next_required_date
+14001,3008,3,2024-06-15,SERVED,2024-06-19,,2024-07-01
+14002,3009,3,2024-06-15,UNSERVED,,Address incomplete.,2024-07-15
+14003,3014,3,2024-09-10,ISSUED,,,2024-10-10
+14004,3034,3,2022-05-01,RETURNED,,Witness shifted from recorded address.,2022-06-01
+14005,3047,3,2026-07-25,SERVED,2026-07-29,,2026-08-10
+14006,3048,3,2026-07-25,CANCELLED,,Summons cancelled after witness details corrected.,
+14007,3008,3,2024-06-20,DRAFT,,,2024-07-01

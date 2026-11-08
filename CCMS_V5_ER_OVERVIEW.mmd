@@ -1,0 +1,66 @@
+erDiagram
+    FORUM_TYPE ||--o{ FORUM : classifies
+    FORUM ||--o{ FORUM : administrative_parent
+    FORUM ||--o{ COURTROOM : contains
+    FORUM ||--o{ BENCH : has
+    FORUM ||--o{ CASE_FILE : originates
+    FORUM ||--o{ CASE_FILE : currently_holds
+    FORUM ||--o{ CASE_TRANSFER : transfer_from
+    FORUM ||--o{ CASE_TRANSFER : transfer_to
+
+    PERSON ||--o| PARTY : may_be
+    ORGANIZATION ||--o| PARTY : may_be
+    PERSON ||--o| LAWYER_PROFILE : lawyer_identity
+    PERSON ||--o| JUDGE_PROFILE : judge_identity
+    PERSON ||--o| USER_ACCOUNT : login_identity
+
+    CASE_CATEGORY ||--o{ CASE_TYPE : groups
+    CASE_TYPE ||--o{ CASE_FILE : classifies
+    CASE_FILE ||--o{ CASE_STATUS_HISTORY : has_status_events
+    CASE_STATUS ||--o{ CASE_STATUS_HISTORY : records
+    CASE_FILE ||--o{ CASE_REGISTRATION : receives_numbers
+
+    CASE_FILE ||--o{ CASE_PARTY : has_participants
+    PARTY ||--o{ CASE_PARTY : participates
+    CASE_PARTY_ROLE ||--o{ CASE_PARTY : defines_role
+    CASE_PARTY ||--o{ LAWYER_REPRESENTATION : represented_by
+    LAWYER_PROFILE ||--o{ LAWYER_REPRESENTATION : represents
+
+    CASE_FILE ||--o{ CASE_RELATIONSHIP : linked_case
+    CASE_FILE ||--o{ CASE_TRANSFER : transfer_history
+    CASE_FILE ||--o{ CASE_FILING : receives_filings
+    CASE_FILING ||--o| PETITION_DETAIL : petition_details
+    CASE_FILING ||--o{ FILING_REVIEW : reviewed_in
+    CASE_FILING ||--o{ FILING_DEFECT : may_have_defects
+
+    CASE_FILE ||--o{ HEARING : listed_for
+    FORUM ||--o{ HEARING : hosts
+    BENCH ||--o{ HEARING : presides
+    COURTROOM ||--o{ HEARING : takes_place_in
+    CAUSE_LIST ||--o{ CAUSE_LIST_ITEM : contains
+    HEARING ||--o{ CAUSE_LIST_ITEM : appears_in
+    HEARING ||--o{ ADJOURNMENT_REQUEST : may_be_adjourned
+    HEARING ||--o{ HEARING_ATTENDANCE : records
+    CASE_PARTY ||--o{ WITNESS_SUMMONS : may_receive
+    CASE_PARTY ||--o{ HEARING_WITNESS : testifies_as
+    HEARING ||--o{ HEARING_WITNESS : hears_testimony
+
+    CASE_FILE ||--o{ EVIDENCE_ITEM : contains
+    EVIDENCE_ITEM ||--o{ EVIDENCE_REVIEW : reviewed_through
+    EVIDENCE_ITEM ||--o{ EVIDENCE_CUSTODY_EVENT : custody_history
+
+    CASE_FILE ||--o{ COURT_ORDER : receives
+    COURT_ORDER ||--o| JUDGMENT : may_record
+    COURT_ORDER ||--o{ COURT_ORDER_JUDGE : signed_or_issued_by
+    JUDGE_PROFILE ||--o{ COURT_ORDER_JUDGE : participates_in
+    CASE_FILE ||--o{ APPEAL_DETAIL : original_matter
+    CASE_FILE ||--o| APPEAL_DETAIL : appeal_matter
+
+    CASE_FILE ||--o{ DOCUMENT : has_documents
+    DOCUMENT ||--o{ DOCUMENT_VERSION : versioned_as
+    DOCUMENT_VERSION ||--o{ DOCUMENT_REVIEW : reviewed
+
+    JUDGE_PROFILE ||--o{ JUDGE_POSTING : has_postings
+    FORUM ||--o{ JUDGE_POSTING : receives_judges
+    JUDGE_PROFILE ||--o{ JUDGE_BENCH_ASSIGNMENT : assigned_to
+    BENCH ||--o{ JUDGE_BENCH_ASSIGNMENT : includes_judges

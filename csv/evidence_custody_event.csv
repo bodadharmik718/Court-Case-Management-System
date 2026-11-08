@@ -1,0 +1,12 @@
+﻿custody_event_id,evidence_id,event_type,event_at,from_custodian,to_custodian,recorded_by_user_id,location_description,notes
+15201,15001,RECEIVED,2023-05-16 12:00:00+05:30,Advocate Nidhi Desai,Registry Record Room,3,Ahmedabad Court Record Room,Original received.
+15202,15001,STORED,2023-05-16 12:15:00+05:30,Registry Record Room,Evidence Locker A-12,3,Ahmedabad Court Record Room,Stored in locked cabinet.
+15203,15001,ACCESSED,2023-07-15 12:00:00+05:30,Evidence Locker A-12,Court Bench,3,Court Room AHM-01,Produced for hearing.
+15204,15002,TRANSFERRED,2023-06-15 10:00:00+05:30,Registry Clerk,Evidence Officer,3,Evidence Store,Transferred for inspection.
+15205,15007,SEALED,2024-07-02 12:00:00+05:30,Evidence Officer,Sealed Evidence Locker,3,Mirzapur Court Evidence Store,Sealed after admission objection.
+15206,15007,UNSEALED,2024-08-01 10:00:00+05:30,Sealed Evidence Locker,Court Bench,3,Court Room MM-01,Unsealed under court supervision.
+15207,15007,RETURNED,2024-09-01 10:00:00+05:30,Court Bench,Depositing Officer,3,Mirzapur Court Evidence Store,Returned to secure storage.
+15208,15014,DESTROYED,2025-01-01 10:00:00+05:30,Registry Record Room,Authorized Disposal Unit,3,Ahmedabad Court Record Room,Duplicate demonstrator item disposed under sample authorization.
+15209,15005,OTHER,2024-07-01 10:00:00+05:30,Digital Evidence Officer,Forensic Workstation,3,Digital Evidence Room,Integrity check recorded.
+15210,15012,RECEIVED,2026-08-10 10:00:00+05:30,Advocate Farah Contractor,Registry Record Room,3,Metropolitan Magistrate Record Room,Expert report received.
+15211,15015,STORED,2026-01-07 12:30:00+05:30,Registry Counter,Public Record Repository,3,Gujarat State Consumer Commission,Public material stored.

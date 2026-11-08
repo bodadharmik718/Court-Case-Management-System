@@ -1,0 +1,9 @@
+﻿notification_id,recipient_user_id,case_id,notification_type,title,message,delivery_channel,notification_status,created_at,scheduled_at,delivered_at,read_at
+19001,11,1001,HEARING_REMINDER,Upcoming hearing on 12 November,Your case is listed for 12 November 2026 at 11:00 AM.,EMAIL,DELIVERED,2026-11-02 09:00:00+05:30,2026-11-02 09:05:00+05:30,2026-11-02 09:06:00+05:30,
+19002,12,1001,HEARING_REMINDER,Upcoming hearing on 12 November,A hearing is scheduled in your case. Sign in to view details.,SMS,READ,2026-11-02 09:00:00+05:30,2026-11-02 09:05:00+05:30,2026-11-02 09:06:00+05:30,2026-11-02 09:30:00+05:30
+19003,7,1002,FILING_UPDATE,Filing accepted,The written statement has been accepted by the registry.,IN_APP,READ,2024-03-21 10:00:00+05:30,,2024-03-21 10:00:00+05:30,2024-03-21 10:30:00+05:30
+19004,13,1005,CASE_STATUS,Case status changed,The case status was updated. Please sign in for restricted details.,PUSH,QUEUED,2026-10-20 08:00:00+05:30,2026-11-04 08:00:00+05:30,,
+19005,14,,PUBLIC_CAUSE_LIST,New cause list published,The public cause list is available for review.,EMAIL,FAILED,2026-11-03 08:00:00+05:30,,,
+19006,3,1013,FILING_DEFECT,Filing defects require correction,Two defects have been recorded for filing CC-PL-00288.,IN_APP,PENDING,2026-10-20 13:00:00+05:30,,,
+19007,15,1020,AUDIT_ALERT,Audit review required,A restricted document access event was recorded.,EMAIL,CANCELLED,2026-08-10 18:00:00+05:30,,,
+19008,11,1021,CASE_DISPOSAL,Labour matter closed,The sample labour matter has been closed.,IN_APP,READ,2026-10-25 17:00:00+05:30,,2026-10-25 17:00:00+05:30,2026-10-25 17:10:00+05:30

@@ -1,0 +1,14 @@
+﻿case_relationship_id,case_id,related_case_id,relationship_type_code,linked_on,notes
+5101,1008,1001,CONNECTED,2024-01-18,Execution proceeding linked to the original civil suit.
+5102,1011,1001,APPEAL_OF,2026-04-19,Civil appeal arising from the original suit.
+5103,1015,1007,RELATED,2026-07-12,Related tribunal proceedings in the sample dataset.
+5104,1018,1012,RELATED,2026-01-18,Related consumer/service dispute involving overlapping parties.
+5105,1019,1001,CONNECTED,2025-10-29,Connected property access issue.
+5106,1020,1003,RELATED,2025-07-21,Related criminal proceeding for reporting tests.
+5107,1017,1001,TRANSFERRED_FROM,2025-09-15,Receiving forum record linked to prior property case.
+5108,1019,1001,CONSOLIDATED_WITH,2025-10-29,Connected proceedings listed for coordinated directions.
+5109,1015,1007,REVISION_OF,2026-07-12,Synthetic revision linkage for testing relationship filters.
+5110,1011,1001,REVIEW_OF,2026-04-20,Cross-reference used to test review relationship queries.
+5111,1021,1016,RELATED,2026-03-12,Related employment and power-sector proceeding.
+5112,1010,1003,CROSS_CASE,2026-02-10,Related bail and criminal matter.
+5113,1011,1001,CONSOLIDATED_WITH,2026-04-28,Appeal and original matter cross-linked for coordinated record retrieval.

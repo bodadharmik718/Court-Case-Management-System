@@ -1,0 +1,28 @@
+HANDOFF PROMPT FOR THE CCMS COURSEWORK PROJECT
+
+You are continuing a Streamlit + PostgreSQL Court Case Management System project. Start by reading README.md, HANDOFF_PROMPT.txt, app.py, and CCMS_DDL.sql. The current app uses the 31-table coursework schema defined in CCMS_DDL.sql; do not switch it back to an older schema or invent table/column names.
+
+PROJECT FILES
+- app.py: Streamlit sign-in, overview dashboard, and case CRUD interface.
+- repositories/coursework_case_repository.py: parameterized PostgreSQL queries for the court_case table.
+- auth/coursework_auth.py: verifies Argon2id hashes from app_user.password_hash.
+- config/settings.py and database/connection.py: .env configuration and Psycopg 3 connections.
+- CCMS_DDL.sql: schema, including app_user.password_hash default for local seeded accounts.
+- CCMS_Real_Data.sql: synthetic data script; tops each of the 31 tables to its configured 85-110 row target and resets identity sequences.
+- CCMS_DDL_Verification.sql: schema and authentication-column checks.
+- CCMS_Auth_Migration.sql: additive migration only for a database created before password_hash was added.
+
+LOCAL SETUP
+1. Create a separate empty PostgreSQL database named ccms_lab11. Do not overwrite a different database.
+2. In pgAdmin run CCMS_DDL.sql, then CCMS_Real_Data.sql, then CCMS_DDL_Verification.sql.
+3. Copy .env.example to .env and set the local PostgreSQL connection details. Never reveal or commit .env.
+4. Install requirements.txt and run `python -m streamlit run app.py`.
+5. Seeded local demo login: username registry.admin, password CourtAccess@2026. The seed password is for coursework only.
+
+WORKING RULES
+- Preserve the supplied SQL schema as the source of truth. Parameterize all input values; never concatenate user values into SQL.
+- Keep database edits additive and safe. Do not DROP, truncate, or bulk-delete user data. Case deletion must stay confirmed and database foreign-key restrictions must remain visible to the user.
+- Keep the UI professional, responsive, and high contrast. Keep password handling out of source control.
+- Before changing SQL, compare it to the actual DDL. Explain incompatible schema changes and use an additive migration where appropriate.
+- After edits, compile Python and run relevant tests when available. Do not claim a live database test unless you actually connected to PostgreSQL.
+- Make requested changes directly in this project and summarize changed files, verification, and any local database steps the user must run.

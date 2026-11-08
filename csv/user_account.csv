@@ -1,0 +1,19 @@
+﻿user_id,person_id,username,email,password_hash,account_status,email_verified_at,last_login_at,created_at
+1,1,root_admin,ananya.desai@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-01-02 10:00:00+05:30,2026-11-02 17:25:00+05:30,2024-01-02 09:00:00+05:30
+2,2,court_admin_ahm,mahesh.vora@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-01-02 10:00:00+05:30,2026-11-02 16:10:00+05:30,2024-01-02 09:10:00+05:30
+3,3,registry_clerk_01,rohan.mehta@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-01-03 10:00:00+05:30,2026-11-03 09:15:00+05:30,2024-01-03 09:00:00+05:30
+4,4,judge_krao,kavita.rao@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-01-04 10:00:00+05:30,2026-11-02 18:00:00+05:30,2024-01-04 09:00:00+05:30
+5,5,judge_ashah,arvind.shah@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-01-04 10:00:00+05:30,2026-11-01 18:00:00+05:30,2024-01-04 09:00:00+05:30
+6,6,judge_ntrivedi,neelam.trivedi@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-01-04 10:00:00+05:30,2026-10-31 18:00:00+05:30,2024-01-04 09:00:00+05:30
+7,9,adv_nidhi,nidhi.desai@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-01-05 10:00:00+05:30,2026-11-02 15:00:00+05:30,2024-01-05 09:00:00+05:30
+8,10,adv_karan,karan.joshi@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-01-05 10:00:00+05:30,2026-11-02 15:30:00+05:30,2024-01-05 09:00:00+05:30
+9,11,adv_farah,farah.contractor@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-01-05 10:00:00+05:30,2026-11-02 14:00:00+05:30,2024-01-05 09:00:00+05:30
+10,12,adv_mihir,mihir.patel@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-01-05 10:00:00+05:30,2026-11-02 14:30:00+05:30,2024-01-05 09:00:00+05:30
+11,17,devansh_shah,devansh.shah@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-02-01 10:00:00+05:30,2026-10-29 09:00:00+05:30,2024-02-01 09:00:00+05:30
+12,18,riya_shah,riya.shah@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-02-01 10:00:00+05:30,,2024-02-01 09:00:00+05:30
+13,21,meera_joshi,meera.joshi@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-02-02 10:00:00+05:30,2026-10-20 09:00:00+05:30,2024-02-02 09:00:00+05:30
+14,30,public_demo,public.user@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-02-03 10:00:00+05:30,2026-10-15 09:00:00+05:30,2024-02-03 09:00:00+05:30
+15,41,auditor_demo,auditor@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,ACTIVE,2024-02-03 10:00:00+05:30,,2024-02-03 09:00:00+05:30
+16,42,locked_demo,locked@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,LOCKED,2024-02-04 10:00:00+05:30,2026-10-01 11:00:00+05:30,2024-02-04 09:00:00+05:30
+17,43,pending_demo,pending@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,PENDING_VERIFICATION,,,2024-02-04 09:00:00+05:30
+18,44,disabled_demo,disabled@example.test,$2b$10$zD8UWIuqUctsbG2T1X2Te.MgQfjyXdrpAayhbomzF3NN7D89j9odK,DISABLED,2024-02-04 10:00:00+05:30,,2024-02-04 09:00:00+05:30

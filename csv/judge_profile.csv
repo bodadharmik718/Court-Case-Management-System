@@ -1,0 +1,10 @@
+﻿judge_id,person_id,judge_code,appointment_date,retirement_date,current_status,biography
+3001,4,GJ-HC-J-001,2012-07-15,,ACTIVE,Fictional judicial officer profile used for testing.
+3002,5,GJ-DC-J-002,2015-03-01,,ACTIVE,Fictional judicial officer profile used for testing.
+3003,6,GJ-DC-J-003,2017-09-12,,ACTIVE,Fictional judicial officer profile used for testing.
+3004,7,GJ-FC-J-004,2014-11-20,,ACTIVE,Fictional judicial officer profile used for testing.
+3005,8,GJ-MM-J-005,2016-02-10,,ACTIVE,Fictional judicial officer profile used for testing.
+3006,53,GJ-HIST-J-006,1998-01-01,2024-01-01,RETIRED,Fictional retired judicial officer.
+3007,54,GJ-HIST-J-007,2009-04-01,,TRANSFERRED,Fictional judicial officer transferred to another forum.
+3008,55,GJ-HIST-J-008,2018-06-01,,SUSPENDED,Fictional judicial officer suspended for testing status filters.
+3009,56,GJ-HIST-J-009,2000-08-01,2020-08-01,DECEASED,Fictional historical judicial officer.

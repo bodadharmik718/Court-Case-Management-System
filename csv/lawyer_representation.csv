@@ -1,0 +1,24 @@
+﻿representation_id,case_party_id,lawyer_id,appointed_on,ended_on,representation_status,appointment_reference,notes
+4001,3001,2001,2023-05-15,,ACTIVE,VAK-1001-A,Counsel for plaintiff.
+4002,3002,2002,2023-05-15,,ACTIVE,VAK-1001-B,Counsel for defendant.
+4003,3003,2002,2024-02-10,,ACTIVE,VAK-1002-A,Corporate counsel.
+4004,3004,2001,2024-02-10,,ACTIVE,VAK-1002-B,Counsel for respondent company.
+4005,3006,2003,2024-06-01,,ACTIVE,VAK-1003-DEF,Defence counsel.
+4006,3005,2004,2024-06-01,,ACTIVE,VAK-1003-STATE,Special public prosecutor (fictional assignment).
+4007,3010,2003,2024-06-05,2024-07-12,ENDED,VAK-1004,Representation ended after bail matter disposal.
+4008,3012,2005,2024-08-21,,ACTIVE,VAK-1005-P,Counsel for petitioner.
+4009,3013,2007,2024-08-21,2025-02-01,WITHDRAWN,VAK-1005-R-OLD,Prior counsel; withdrawn.
+4010,3013,2008,2025-02-02,,ACTIVE,VAK-1005-R-NEW,Subsequent counsel.
+4011,3015,2004,2025-01-10,,ACTIVE,VAK-1006-P,Counsel for residents association.
+4012,3018,2006,2023-11-04,,ACTIVE,VAK-1007-A,Counsel before DRT.
+4013,3019,2002,2023-11-04,,ACTIVE,VAK-1007-R,Counsel for respondent.
+4014,3026,2001,2026-04-19,,ACTIVE,VAK-1011-A,Counsel in civil appeal.
+4015,3027,2002,2026-04-19,,ACTIVE,VAK-1011-R,Counsel in civil appeal.
+4016,3030,2006,2026-10-15,,ACTIVE,VAK-1013-A,Counsel; filing currently defective.
+4017,3035,2006,2026-07-02,,ACTIVE,VAK-1015-A,Counsel in tribunal appeal.
+4018,3039,2001,2025-05-09,,ACTIVE,VAK-1017-A,Counsel before receiving District Court.
+4019,3045,2004,2025-07-14,,ACTIVE,VAK-1020-P,Counsel for prosecution.
+4020,3049,2005,2026-03-01,,ACTIVE,VAK-1021-A,Applicant counsel in labour dispute.
+4021,3001,2007,2024-01-01,2024-06-01,SUSPENDED,VAK-1001-SUSP,Historical suspended representation.
+4022,3002,2008,2022-01-01,2023-01-01,REVOKED,VAK-1001-REV,Prior representation revoked.
+4023,3053,2006,2024-03-01,,ACTIVE,VAK-1002-OTHER,Counsel for additional interested party.

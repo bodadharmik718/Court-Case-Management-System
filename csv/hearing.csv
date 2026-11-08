@@ -1,0 +1,29 @@
+﻿hearing_id,case_id,forum_id,bench_id,courtroom_id,hearing_date,start_time,end_time,actual_start_time,actual_end_time,hearing_purpose,hearing_status,proceeding_summary,outcome_summary,next_steps,rescheduled_from_hearing_id,created_by_user_id
+11001,1001,3,4,3,2023-07-15,11:00,13:00,2023-07-15 11:05:00+05:30,2023-07-15 12:40:00+05:30,Admission and interim relief,HEARD,Both sides heard on interim relief.,File reply and list for arguments.,Further submissions required.,,3
+11002,1001,3,4,3,2026-10-20,11:00,13:00,2026-10-20 11:00:00+05:30,2026-10-20 12:50:00+05:30,Final arguments,HEARD,Arguments partly heard.,Matter adjourned for remaining submissions.,Next date 2026-11-12.,,3
+11003,1002,6,8,7,2024-04-15,10:30,12:30,2024-04-15 10:35:00+05:30,2024-04-15 12:00:00+05:30,Pleadings and issues,HEARD,Issues framed.,Affidavit evidence to be filed.,,,3
+11004,1002,6,8,7,2026-11-05,10:30,12:30,,,Evidence hearing,SCHEDULED,,,,,3
+11005,1003,7,9,8,2024-07-01,11:00,13:00,2024-07-01 11:00:00+05:30,2024-07-01 12:40:00+05:30,Charge and evidence,HEARD,Plea recorded; evidence stage opened.,Prosecution witness to appear.,,,3
+11006,1003,7,9,8,2026-11-06,11:00,13:00,,,Prosecution evidence,SCHEDULED,,,,,3
+11007,1004,7,9,8,2024-07-12,12:00,13:00,2024-07-12 12:00:00+05:30,2024-07-12 12:35:00+05:30,Bail hearing,HEARD,Bail application disposed.,Comply with bail conditions.,,,3
+11008,1005,5,7,6,2024-10-10,10:00,12:00,2024-10-10 10:00:00+05:30,2024-10-10 11:10:00+05:30,Counselling and interim relief,HEARD,Confidential counselling and interim application considered.,Parties to file statements.,,,3
+11009,1005,5,7,6,2026-11-10,10:00,12:00,,,Case management,CANCELLED,,Await fresh listing after stay review.,,,3
+11010,1006,2,2,1,2026-09-01,10:30,13:00,2026-09-01 10:30:00+05:30,2026-09-01 12:55:00+05:30,Final arguments,HEARD,Final submissions concluded.,Judgment reserved.,,,3
+11011,1007,8,10,9,2024-01-15,11:00,13:00,2024-01-15 11:00:00+05:30,2024-01-15 12:20:00+05:30,Admission hearing,HEARD,Notice issued to respondent.,Reply awaited.,,,3
+11012,1008,3,4,3,2024-02-20,11:00,12:00,2024-02-20 11:00:00+05:30,2024-02-20 11:25:00+05:30,Execution directions,ADJOURNED,Service report not available.,Fresh service to be completed.,Service report awaited.,,3
+11013,1009,4,6,5,2025-06-15,11:00,12:30,2025-06-15 11:00:00+05:30,2025-06-15 12:25:00+05:30,Preliminary hearing,HEARD,Preliminary submissions recorded.,Matter to be listed for orders.,,,3
+11014,1010,7,9,8,2026-03-12,12:00,12:30,2026-03-12 12:00:00+05:30,2026-03-12 12:15:00+05:30,Withdrawal request,HEARD,Withdrawal request allowed.,Proceedings closed.,,,3
+11015,1011,2,2,1,2026-11-04,10:00,11:00,,,Admission of appeal,SCHEDULED,,Notice and record requisition to be considered.,,,3
+11016,1012,11,13,12,2025-12-22,10:00,11:00,2025-12-22 10:00:00+05:30,2025-12-22 10:50:00+05:30,Settlement recording,HEARD,Compromise terms recorded.,Settlement award prepared.,,,3
+11017,1013,6,8,7,2026-11-12,10:00,11:00,,,Defect compliance check,SCHEDULED,,Subject to curing filing defects.,,,3
+11018,1014,7,9,8,2023-01-30,11:00,12:00,2023-01-30 11:00:00+05:30,2023-01-30 11:45:00+05:30,Final hearing,HEARD,Matter decided after trial.,Pronouncement recorded.,,,3
+11019,1015,9,11,10,2026-08-20,11:00,13:00,2026-08-20 11:00:00+05:30,2026-08-20 12:30:00+05:30,Tribunal appeal admission,HEARD,Notice issued; reply awaited.,Respondent to file reply.,,,3
+11020,1016,11,13,12,2025-02-20,10:00,11:00,2025-02-20 10:00:00+05:30,2025-02-20 10:45:00+05:30,Settlement hearing,HEARD,Settlement terms accepted.,Award recorded.,,,3
+11021,1017,4,6,5,2025-06-20,11:00,12:00,2025-06-20 11:00:00+05:30,2025-06-20 11:25:00+05:30,Local boundary dispute,ADJOURNED,Local inspection report awaited.,Matter transferred by competent order.,,,3
+11022,1017,4,6,5,2026-11-09,11:00,12:00,,,Post-transfer directions,SCHEDULED,,Directions after transfer.,Receive transferred record.,11021,3
+11023,1018,10,12,11,2026-05-14,11:00,12:00,2026-05-14 11:00:00+05:30,2026-05-14 11:30:00+05:30,Consumer complaint admission,NOT_TAKEN_UP,Bench unavailable; matter not taken up.,List on next available date.,,,3
+11024,1019,3,4,3,2026-11-12,11:00,12:30,,,Notice and interim relief,SCHEDULED,,Service report to be filed.,Respondent to file service report.,,3
+11025,1020,7,9,8,2026-08-10,11:00,14:00,2026-08-10 11:00:00+05:30,2026-08-10 13:55:00+05:30,Expert evidence,HEARD,Expert witness examined.,Cross-examination scheduled.,,,3
+11026,1001,3,4,3,2026-11-12,11:00,13:00,,,Further final arguments,SCHEDULED,,Continuation of final arguments.,Continue final submissions.,11002,3
+11027,1021,15,17,16,2026-10-25,11:00,12:00,2026-10-25 11:00:00+05:30,2026-10-25 11:35:00+05:30,Compliance review,HEARD,Compliance evidence examined.,Closure recorded.,No further date.,,3
+11028,1002,6,8,7,2026-10-30,10:30,12:00,2026-10-30 10:35:00+05:30,,Evidence hearing in progress,IN_PROGRESS,Proceedings started; completion time not yet recorded.,,Record completion after hearing.,,3

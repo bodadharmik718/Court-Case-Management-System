@@ -1,0 +1,18 @@
+﻿forum_id,area_id,valid_from,valid_to,notes
+1,1,1950-01-28,,National jurisdiction.
+2,2,1960-05-01,,Territorial jurisdiction for Gujarat.
+3,5,1950-01-01,,Ahmedabad district.
+3,10,1950-01-01,,Ahmedabad city.
+4,6,1980-01-01,,Gandhinagar district.
+4,11,1980-01-01,,Gandhinagar city.
+5,5,2001-01-01,,Family matters in Ahmedabad district.
+6,5,2016-01-01,,Commercial matters in assigned territory.
+7,5,1970-01-01,,Metropolitan criminal jurisdiction.
+8,2,1993-01-01,,Assigned debt recovery matters.
+9,2,2016-06-01,,Company law matters assigned to Ahmedabad bench.
+10,2,1987-01-01,,Consumer disputes within state jurisdiction.
+11,5,1987-01-01,,Lok Adalat activity for Ahmedabad.
+12,15,2009-01-01,,Viramgam local jurisdiction.
+13,5,1985-01-01,,Special criminal jurisdiction in Ahmedabad.
+14,2,2004-01-01,,Electricity grievance jurisdiction across Gujarat.
+15,5,1970-01-01,,Labour disputes in Ahmedabad district.

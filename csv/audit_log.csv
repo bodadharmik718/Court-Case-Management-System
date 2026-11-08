@@ -1,0 +1,12 @@
+﻿audit_id,user_id,case_id,action_code,entity_name,entity_primary_key,event_timestamp,client_ip,reason,before_state,after_state,correlation_id
+20001,3,1001,CASE_CREATED,case_file,1001,2023-05-15 10:00:00+05:30,192.0.2.10,Initial registration,null,"{""case_status"":""FILED"",""forum_id"":3}",DEMO-CORR-0001
+20002,3,1001,FILING_ACCEPTED,case_filing,8001,2023-05-28 10:00:00+05:30,192.0.2.10,Registry scrutiny completed,"{""filing_status"":""UNDER_SCRUTINY""}","{""filing_status"":""REGISTERED""}",DEMO-CORR-0002
+20003,5,1001,ORDER_PRONOUNCED,court_order,16001,2024-01-12 15:00:00+05:30,198.51.100.20,Interim order pronounced,"{""order_status"":""DRAFT""}","{""order_status"":""PRONOUNCED""}",DEMO-CORR-0003
+20004,2,1017,CASE_TRANSFERRED,case_transfer,7001,2025-09-10 12:00:00+05:30,192.0.2.11,Transfer order recorded,"{""current_forum_id"":12}","{""current_forum_id"":4}",DEMO-CORR-0004
+20005,3,1013,DEFECT_RECORDED,filing_defect,8301,2026-10-20 12:10:00+05:30,192.0.2.10,Missing annexure,null,"{""defect_status"":""OPEN""}",DEMO-CORR-0005
+20006,15,1020,DOCUMENT_VIEWED,document,9022,2026-08-10 18:00:00+05:30,203.0.113.15,Authorized sample auditor access,"{""access"":""not_recorded""}","{""access"":""viewed""}",DEMO-CORR-0006
+20007,7,1002,LAWYER_ASSIGNED,lawyer_representation,4003,2024-02-10 12:00:00+05:30,198.51.100.21,Representation recorded,null,"{""lawyer_id"":2002,""status"":""ACTIVE""}",DEMO-CORR-0007
+20008,4,1006,EVIDENCE_ADMITTED,evidence_review,15108,2026-09-01 12:00:00+05:30,198.51.100.22,Expert report admitted,"{""review_decision"":""PENDING""}","{""review_decision"":""ADMITTED""}",DEMO-CORR-0008
+20009,2,1005,ACCESS_RESTRICTED,document,9006,2024-08-22 10:00:00+05:30,192.0.2.11,Family matter confidentiality,"{""confidentiality"":""PARTY_ONLY""}","{""confidentiality"":""SEALED""}",DEMO-CORR-0009
+20010,3,,LOGIN_FAILED,user_account,18,2026-11-01 09:00:00+05:30,203.0.113.99,Disabled demo account login rejected,"{""account_status"":""DISABLED""}","{""login_result"":""DENIED""}",DEMO-CORR-0010
+20011,3,1021,CASE_CLOSED,case_status_history,6193,2026-10-25 15:00:00+05:30,192.0.2.10,Closure recorded after compliance,"{""case_status"":""PENDING""}","{""case_status"":""CLOSED""}",DEMO-CORR-0011

@@ -1,0 +1,6 @@
+﻿adjournment_id,hearing_id,requested_by_user_id,request_date,reason,decision_status,decided_by_judge_id,decision_date,decision_remarks,proposed_next_date,rescheduled_hearing_id
+13001,11012,7,2024-02-20 09:00:00+05:30,Service report not received.,APPROVED,3002,2024-02-20 11:20:00+05:30,One adjournment granted.,2024-03-20,
+13002,11002,7,2026-10-19 16:00:00+05:30,Counsel requested short accommodation for additional written submissions.,APPROVED,3002,2026-10-20 12:45:00+05:30,Partly heard; next date fixed.,2026-11-12,11026
+13003,11004,8,2026-11-03 10:00:00+05:30,Witness unavailable due to medical reason.,PENDING,,,,2026-11-19,
+13004,11015,7,2026-11-02 11:00:00+05:30,Request withdrawn before hearing.,WITHDRAWN,,,Request withdrawn by counsel.,2026-11-04,
+13005,11006,9,2026-11-05 17:00:00+05:30,Prosecution witness could not be served.,REJECTED,3005,2026-11-06 09:00:00+05:30,Request rejected; service to be completed.,2026-11-20,

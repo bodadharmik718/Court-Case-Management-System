@@ -1,0 +1,7 @@
+﻿from_status_code,to_status_code,requires_approval,transition_notes
+PENDING,DISMISSED,True,Sample transition for dismissal after hearing.
+HEARING_IN_PROGRESS,DISMISSED,True,Sample transition for dismissal after hearing.
+PENDING,SETTLED,True,Sample transition for recorded settlement.
+HEARING_IN_PROGRESS,SETTLED,True,Sample transition for recorded settlement.
+PENDING,CLOSED,True,Sample administrative closure transition.
+REGISTERED,CLOSED,True,Sample administrative closure transition.

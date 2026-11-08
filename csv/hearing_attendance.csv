@@ -1,0 +1,15 @@
+﻿hearing_attendance_id,hearing_id,case_party_id,representation_id,attendance_status,recorded_at,notes
+13101,11001,3001,,PRESENT,2023-07-15 11:00:00+05:30,Plaintiff present.
+13102,11001,3002,,PRESENT,2023-07-15 11:00:00+05:30,Defendant present.
+13103,11001,,4001,PRESENT,2023-07-15 11:00:00+05:30,Plaintiff counsel present.
+13104,11001,,4002,REMOTE,2023-07-15 11:00:00+05:30,Defence counsel appeared remotely.
+13105,11005,3006,,PRESENT,2024-07-01 11:00:00+05:30,Accused present.
+13106,11005,,4005,PRESENT,2024-07-01 11:00:00+05:30,Defence counsel present.
+13107,11008,3012,,PRESENT,2024-10-10 10:00:00+05:30,Petitioner present.
+13108,11008,3013,,ABSENT,2024-10-10 10:00:00+05:30,Respondent absent.
+13109,11010,3015,,PRESENT,2026-09-01 10:30:00+05:30,Association representative present.
+13110,11010,,4011,PRESENT,2026-09-01 10:30:00+05:30,Petitioner advocate present.
+13111,11016,3028,,PRESENT,2025-12-22 10:00:00+05:30,Applicant society representative present.
+13112,11016,3029,,PRESENT,2025-12-22 10:00:00+05:30,Respondent representative present.
+13113,11025,3047,,EXEMPTED,2026-08-10 11:00:00+05:30,Expert witness attendance status recorded separately.
+13114,11025,3048,,UNKNOWN,2026-08-10 11:00:00+05:30,Attendance not confirmed at roll call.

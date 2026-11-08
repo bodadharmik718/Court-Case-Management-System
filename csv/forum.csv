@@ -1,0 +1,16 @@
+﻿forum_id,forum_code,forum_name,forum_type_code,parent_forum_id,state_name,district_name,address,phone,email,established_on,is_active,created_at
+1,SC-IN,Supreme Court of India,SUPREME_COURT,,Delhi,New Delhi,"Tilak Marg, New Delhi, Delhi 110001",+91-11-23388922,registry.sc@example.test,1950-01-28,True,2024-01-01 09:00:00+05:30
+2,HC-GJ,High Court of Gujarat,HIGH_COURT,1,Gujarat,Ahmedabad,"Sola, Ahmedabad, Gujarat 380060",+91-79-27664601,registry.hcgj@example.test,1960-05-01,True,2024-01-01 09:00:00+05:30
+3,DC-AHM,"City Civil and Sessions Court, Ahmedabad",DISTRICT_COURT,2,Gujarat,Ahmedabad,"Bhadra, Ahmedabad, Gujarat 380001",+91-79-25506400,registry.ahm@example.test,1950-01-01,True,2024-01-01 09:00:00+05:30
+4,DC-GNR,"District and Sessions Court, Gandhinagar",DISTRICT_COURT,2,Gujarat,Gandhinagar,"Sector 11, Gandhinagar, Gujarat 382011",+91-79-23240000,registry.gnr@example.test,1980-01-01,True,2024-01-01 09:00:00+05:30
+5,FC-AHM,"Family Court, Ahmedabad",FAMILY_COURT,3,Gujarat,Ahmedabad,"Bhadra Court Complex, Ahmedabad",+91-79-25506005,family.ahm@example.test,2001-01-01,True,2024-01-01 09:00:00+05:30
+6,CC-AHM,"Commercial Court, Ahmedabad",COMMERCIAL_COURT,3,Gujarat,Ahmedabad,"City Civil Court Campus, Ahmedabad",+91-79-25506006,commercial.ahm@example.test,2016-01-01,True,2024-01-01 09:00:00+05:30
+7,MM-AHM,"Metropolitan Magistrate Court, Ahmedabad",SUBORDINATE_COURT,3,Gujarat,Ahmedabad,"Mirzapur Court Complex, Ahmedabad",+91-79-25506007,mm.ahm@example.test,1970-01-01,True,2024-01-01 09:00:00+05:30
+8,DRT-AHM,"Debts Recovery Tribunal, Ahmedabad",TRIBUNAL,,Gujarat,Ahmedabad,"Navrangpura, Ahmedabad, Gujarat 380009",+91-79-26580080,drt.ahm@example.test,1993-01-01,True,2024-01-01 09:00:00+05:30
+9,NCLT-AHM,"National Company Law Tribunal, Ahmedabad Bench",TRIBUNAL,,Gujarat,Ahmedabad,"Sola, Ahmedabad, Gujarat 380060",+91-79-27660090,nclt.ahm@example.test,2016-06-01,True,2024-01-01 09:00:00+05:30
+10,GJ-SCDRC,Gujarat State Consumer Disputes Redressal Commission,COMMISSION,,Gujarat,Ahmedabad,"Gandhinagar, Gujarat 382010",+91-79-23250010,consumer.gj@example.test,1987-01-01,True,2024-01-01 09:00:00+05:30
+11,LOK-AHM,Ahmedabad District Legal Services Authority - Lok Adalat,LOK_ADALAT,3,Gujarat,Ahmedabad,"Bhadra Court Complex, Ahmedabad",+91-79-25506011,lokadalat.ahm@example.test,1987-01-01,True,2024-01-01 09:00:00+05:30
+12,GN-VIR,"Gram Nyayalaya, Viramgam",GRAM_NYAYALAYA,3,Gujarat,Ahmedabad,"Viramgam, Ahmedabad District, Gujarat",+91-2715-000012,gramnyayalaya.vir@example.test,2009-01-01,True,2024-01-01 09:00:00+05:30
+13,SC-NDPS-AHM,"Special Court under NDPS Act, Ahmedabad",SPECIAL_COURT,3,Gujarat,Ahmedabad,"Mirzapur Court Complex, Ahmedabad",+91-79-25506013,ndps.ahm@example.test,1985-01-01,True,2024-01-01 09:00:00+05:30
+14,GJ-ELEC-OMB,Gujarat Electricity Ombudsman,OTHER_FORUM,,Gujarat,Gandhinagar,"Gandhinagar, Gujarat",+91-79-23250014,ombudsman.electricity@example.test,2004-01-01,True,2024-01-01 09:00:00+05:30
+15,LABOUR-AHM,"Labour Court, Ahmedabad",SPECIAL_COURT,3,Gujarat,Ahmedabad,"Bhadra Court Complex, Ahmedabad",+91-79-25506015,labour.ahm@example.test,1970-01-01,True,2024-01-01 09:00:00+05:30

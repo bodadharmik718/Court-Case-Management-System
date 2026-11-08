@@ -1,0 +1,18 @@
+﻿bench_id,forum_id,bench_code,bench_name,bench_type,valid_from,valid_to,is_active
+1,1,SC-DB,Supreme Court Division Bench,DIVISION,2024-01-01,,True
+2,2,HC-SB-1,Gujarat High Court Single Bench 1,SINGLE,2024-01-01,,True
+3,2,HC-DB-1,Gujarat High Court Division Bench 1,DIVISION,2024-01-01,,True
+4,3,AHM-CIV-1,Ahmedabad Civil Bench 1,SINGLE,2024-01-01,,True
+5,3,AHM-SES-1,Ahmedabad Sessions Bench 1,SINGLE,2024-01-01,,True
+6,4,GNR-CIV-1,Gandhinagar Civil Bench 1,SINGLE,2024-01-01,,True
+7,5,FC-AHM-1,Family Court Bench 1,SINGLE,2024-01-01,,True
+8,6,CC-AHM-1,Commercial Court Bench 1,SINGLE,2024-01-01,,True
+9,7,MM-AHM-1,Metropolitan Magistrate Bench 1,SINGLE,2024-01-01,,True
+10,8,DRT-AHM-1,DRT Ahmedabad Bench,SINGLE,2024-01-01,,True
+11,9,NCLT-AHM-1,NCLT Ahmedabad Bench,SINGLE,2024-01-01,,True
+12,10,SCDRC-1,Consumer Commission Bench 1,SINGLE,2024-01-01,,True
+13,11,LOK-1,Lok Adalat Bench 1,PANEL,2024-01-01,,True
+14,12,GN-1,Viramgam Gram Nyayalaya Bench,SINGLE,2024-01-01,,True
+15,13,NDPS-AHM-1,Special Court Bench 1,SINGLE,2024-01-01,,True
+16,14,OMB-GJ-1,Electricity Ombudsman Panel,PANEL,2024-01-01,,True
+17,15,LAB-AHM-1,Labour Court Bench 1,SINGLE,2024-01-01,,True

@@ -1,0 +1,17 @@
+﻿courtroom_id,forum_id,room_code,room_name,floor_number,capacity,is_active
+1,2,HC-01,Court Hall 1,1,120,True
+2,2,HC-02,Court Hall 2,1,100,True
+3,3,AHM-01,Court Room 1,Ground,80,True
+4,3,AHM-02,Court Room 2,1,70,True
+5,4,GNR-01,Court Room 1,Ground,60,True
+6,5,FC-01,Family Court Hall,2,50,True
+7,6,CC-01,Commercial Court Hall,3,70,True
+8,7,MM-01,Magistrate Court Room 1,Ground,55,True
+9,8,DRT-01,Tribunal Court Room,4,60,True
+10,9,NCLT-01,NCLT Hearing Room,2,60,True
+11,10,SCDRC-01,Commission Hall,1,45,True
+12,11,LA-01,Lok Adalat Hall,Ground,100,True
+13,12,GN-01,Gram Nyayalaya Hall,Ground,35,True
+14,13,NDPS-01,Special Court Hall,2,55,True
+15,14,OMB-01,Ombudsman Hearing Room,1,35,True
+16,15,LAB-01,Labour Court Room,1,50,True

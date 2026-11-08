@@ -1,0 +1,12 @@
+﻿filing_id,petition_number,petition_kind,relief_sought,cause_of_action,verification_statement
+8001,PET-1001-A,CIVIL_PLAINT,"Partition, declaration of title and injunction.",Dispute over co-owned residential property.,Verified by plaintiff on oath.
+8003,IA-1001-01,INTERIM_APPLICATION,Temporary injunction pending final disposal.,Alleged risk of alienation of property.,Affidavit attached.
+8006,CR-211-2024,CRIMINAL_COMPLAINT,Proceedings according to applicable criminal procedure.,Fictional complaint and police report.,Filed by authorized prosecutor.
+8007,BA-219-2024,BAIL_APPLICATION,Regular bail subject to conditions.,Applicant seeks release pending trial.,Affidavit attached.
+8008,FC-77-2024,FAMILY_PETITION,Maintenance and parenting directions.,Matrimonial and family dispute.,Confidential verification on record.
+8009,WP-89-2025,WRIT_PETITION,Appropriate writ and administrative directions.,Challenge to a fictional administrative decision.,Verified by association office bearer.
+8014,CAP-21-2026,CIVIL_APPEAL,Set aside or modify the challenged decree.,Challenge to decision in case 1001.,Appeal memorandum verified.
+8016,CC-288-2026,COMMERCIAL_PLAINT,Recovery of contractual dues.,Unpaid supply invoices.,Verification incomplete; defect notice issued.
+8021,SCDRC-31-2026,CONSUMER_COMPLAINT,Compensation and service correction.,Deficiency in service (fictional facts).,Verified by society secretary.
+8024,PRE-REG-2026,PRE_REGISTRATION_PETITION,Registration and listing directions.,Filing pending scrutiny and case number assignment.,Verification uploaded.
+8031,LAB-PET-08,LABOUR_CLAIM,Payment of unpaid wages and related statutory benefits.,Employment and wage dispute (synthetic).,Verified by applicant.
