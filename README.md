@@ -312,9 +312,3 @@ python -m compileall .
 * **Boda Dharmik** (202503060)
 * **Aambaliya Kirtan** (202503015)
 
-Instructor: `minal_bhise@dau.ac.in`  
-Teaching Assistants: `202303010@dau.ac.in`, `202303016@dau.ac.in`
-
----
-
-*Developed for academic coursework. Do not reuse demo credentials in production environments.*
